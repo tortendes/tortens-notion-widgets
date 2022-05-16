@@ -43,18 +43,3 @@ div.holder div p.from {
 
     cursor: pointer;
 }
-
-.spinning {
-    animation: spin;
-    animation-duration: 3000ms;
-    animation-iteration-count: infinite;
-}
-
-@keyframes spin {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
-}

@@ -10,9 +10,7 @@ $(document).ready(function() {
     }
     generateQuote()
 
-    $('.spinner').click(function() {
-        $('.spin-holder').addClass("spinning")
+    $('img.spinner').click(function() {
         generateQuote()
-        $('.spin-holder').removeClass("spinning")
     })
 })
