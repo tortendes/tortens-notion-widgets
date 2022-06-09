@@ -1,0 +1,45 @@
+html {
+    /* The image used */
+    background-image: url("assets/background.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: "Noto Sans", sans-serif;
+}
+
+div.holder {
+    height: 100vh;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    color: #fff;
+}
+
+div.holder div p.quote {
+    font-weight: 700;
+    text-align: center;
+    max-width: 75vw;
+}
+
+div.holder div p.from {
+    font-weight: 300;
+    text-align: center;
+    max-width: 75vw;
+}
+
+.spinner {
+    position: absolute;
+    z-index: 20;
+    bottom: .25em;
+    right: .50em;
+
+    cursor: pointer;
+}
