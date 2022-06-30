@@ -1,4 +1,4 @@
-# �️� Quotes Generator Widget
+# 💬 Quotes Generator Widget
 
 This is a customizable, anime-styled time and weather widget for notion.
 ## Features
