@@ -1,4 +1,6 @@
-![thumbnail](/assets/thumbnail.png)
+# This project is now dead. A new project would be made soon. Stay tuned.
+---
+![thumbnail](/assets/thumbnail.pn)
 
 # tortens-notion-widgets
 ## Anime themed embeddable notion widgets, just for you.
